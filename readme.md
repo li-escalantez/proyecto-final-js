@@ -3,8 +3,8 @@
 ## Descripción General de las Páginas
 1.	index.html: Página de inicio que presenta la web, con una portada de 3 imágenes rotativas que cambian cada 3 segundos y enlaces a las secciones de productos y contacto.
 2.	catalogo.html: Página que muestra un catálogo de productos con la opción de añadirlos al carrito de compras.
-3.	carrito.html: Página donde se pueden ver los productos añadidos a su carrito, eliminar productos y proceder a la compra. A modo de menú flotante el carrito aparece en todo momento indicando la cantidad de artículos de la compra, también se agregó una imagen que hace referencia al mismo a modo de menú y contiene un formulario integrado en la parte inferior de la tabla de productos que se compro con su total parcial y general
-4.	contacto.html: Página que permite a los usuarios enviar un mensaje de contacto mediante un formulario.
+3.	carrito.html: Página donde se pueden ver los productos añadidos a su carrito, eliminar productos y proceder a la compra. A modo de menú flotante el carrito aparece en todo momento indicando la cantidad de artículos de la compra, también se agregó una imagen que hace referencia al mismo para que sea mas descriptivo visualmente y tambien contiene un formulario integrado en la parte inferior de la tabla de productos que se compro con su total parcial y general (para esto usamos formpree)
+4.	contacto.html: Página que permite a los usuarios enviar un mensaje de contacto mediante un formulario (usamos el mismo formspree ).
 
 ## Estructura del Proyecto
 La estructura del proyecto es la siguiente:
