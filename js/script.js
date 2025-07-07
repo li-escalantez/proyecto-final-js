@@ -223,7 +223,7 @@ function realizarCompra(event) {
     const body = JSON.stringify(formObject);
 
     // enviar el formulario a Formspree
-    fetch('https://formspree.io/f/mnnqpbwq', {
+    fetch('https://formspree.io/f/xkgrdrwy', {
         method: 'POST',
         body: body,
         headers: {
